@@ -8,7 +8,7 @@ Resources:
 
 Note: Every step is designed so any IT professional—or even a non-technical stakeholder—can follow along.
 
-                       ┌──────────────┐
+                      ┌──────────────┐
                       │  GitHub Repo │
                       │(ARM Templates│
                       │  & Scripts)  │
@@ -27,4 +27,13 @@ Note: Every step is designed so any IT professional—or even a non-technical st
                      │(Optional Offline│
                      │  VM Testing)    │
                      └─────────────────┘
+
+
+
+
+
+
+
+
+                     
 
